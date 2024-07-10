@@ -4,7 +4,10 @@ Takım 67
 
 ### Takım Elemanları
 Büşra Nimet Oğuz - Scrum Master
-
+Mehmet Emre Bozarık - Developer
+Barış Kaya - Developer
+Berk Savi - Level Designer
+Buse Ünal - Developer
 
 
 ### Ürün İsmi
