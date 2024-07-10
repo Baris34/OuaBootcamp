@@ -28,4 +28,4 @@ Nazik Kelebek - Karakterimiz can kaybettiğinde sağlık puanlarını geri kazan
 ### Hedef Kitle 
 Pixel art ve macera türündeki oyunları seven 16 yaş üzeri kitle
 # Product Backlog URL
-
+https://trello.com/b/VW9k1kpy/grup-67-kısaca-the-champ😎
