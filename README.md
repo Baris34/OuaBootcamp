@@ -1,6 +1,6 @@
-# Takım İsmi
+## Takım İsmi
 Takım 67
-# Ürün İle İlgili Bilgiler
+## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
 Büşra Nimet Oğuz - Scrum Master
@@ -24,5 +24,5 @@ Nazik Kelebek - Karakterimiz can kaybettiğinde sağlık puanlarını geri kazan
 
 ### Hedef Kitle 
 Pixel art ve macera türündeki oyunları seven 16 yaş üzeri kitle
-# Product Backlog URL
+## Product Backlog URL
 
