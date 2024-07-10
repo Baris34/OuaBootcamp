@@ -2,6 +2,8 @@
 Takım 67
 # Ürün İle İlgili Bilgiler
 
+# Takım Elemanları
+
 # Ürün İsmi
 
 # Ürün Açıklaması
