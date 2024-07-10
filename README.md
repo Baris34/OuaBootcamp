@@ -2,7 +2,7 @@
 Takım 67
 # Ürün İle İlgili Bilgiler
 
-# Takım Elemanları
+### Takım Elemanları
 Büşra Nimet Oğuz - Scrum Master
 
 
