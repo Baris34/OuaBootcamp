@@ -30,7 +30,7 @@ Pixel art ve macera türündeki oyunları seven 16 yaş üzeri kitle
 # Product Backlog URL
 https://trello.com/b/VW9k1kpy/grup-67-kısaca-the-champ😎
 
-### Sprint Retrospective
+### Sprint Sonu Beklentisi
 **İyileştirmeler:**
 - **Neler iyi gitti:** Takım uyumu ve iletişim.
 - **Neler geliştirilmeli:** Görev tahminlerinin daha doğru yapılması.
