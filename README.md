@@ -13,7 +13,7 @@ Buse Ünal - Developer
 
 
 ### Ürün İsmi
-Zindan Adası
+HUSE OF HOG
 ### Ürün Açıklaması
 Ana karakterimiz dünyanın gri ve renksiz olduğu bir evrende 4 materyali toplayarak dünyaya renk getirmeye çalışıyor.
 ### Ürün Özellikleri
@@ -32,7 +32,7 @@ Pixel art ve macera türündeki oyunları seven 16 yaş üzeri kitle
 # Product Backlog URL
 https://miro.com/welcomeonboard/TDJ5eG5BRU9EeldZZ2tDblo5MnpvSEF3YlhncDJGaGEzWjlQYk9jUzlVc3hRRHpSZ2ljT01ZUHpRdmd2U2hVb3wzNDU4NzY0NTM4OTA1MzkyMDYzfDI=?share_link_id=475963820769
 
-### Sprint Sonu Beklentisi
+### Sprint Review
 **İyileştirmeler:**
 - **Neler iyi gitti:** Takım uyumu ve iletişim.
 - **Neler geliştirilmeli:** Görev tahminlerinin daha doğru yapılması.
@@ -44,7 +44,7 @@ https://miro.com/welcomeonboard/TDJ5eG5BRU9EeldZZ2tDblo5MnpvSEF3YlhncDJGaGEzWjlQ
 Road Map oluşturuldu,oyun planlaması bitti,Ana karakter assetlere karar verildi ve hikaye için mitolojik temel oluşturuldu.Görev dağılımı yapıldı ve ekip artık her türlü mücadeleye hazır :)
 
 ## Tahmin Edilen Puan
-100 üzerinden 100,10 üzerinden 10 ve galaksideki her türlü notlandırma sistemi üzerinden en yüksek puan.4
+100 üzerinden 100,10 üzerinden 10 ve galaksideki her türlü notlandırma sistemi üzerinden en yüksek puan.
 
 ## Tahmin Mantığı
 Takım bütün toplantılara eksiksiz katılım gösterdi ve görev dağılımını büyük bir saygıyla yaptıktan sonra kendilerine düşen kısmı özveriyle yürüttüler.Ayrıca Discord kanalından ilgili dökümanlar zamanında paylaşıldı ve iyileştirmeler de güncel olarak düzenlendi.
