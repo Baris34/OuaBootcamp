@@ -13,7 +13,7 @@ Buse Ünal - Developer
 
 
 ### Ürün İsmi
-HUSE OF HOG
+HUSE OF HOPE
 ### Ürün Açıklaması
 Ana karakterimiz dünyanın gri ve renksiz olduğu bir evrende 4 materyali toplayarak dünyaya renk getirmeye çalışıyor.
 ### Ürün Özellikleri
