@@ -24,4 +24,10 @@ public class PlayerData : ScriptableObject
             }
         }
     }
+
+    public int PlayerDamage
+    {
+        get => playerDamage;
+        set => playerDamage = value;
+    }
 }

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Boss
   m_EditorClassIdentifier: 
   enemyName: Boss
-  enemyDamage: 110
-  enemyHealth: 100
+  enemyDamage: 30
+  enemyHealth: 80
