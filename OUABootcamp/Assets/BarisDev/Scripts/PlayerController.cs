@@ -12,6 +12,10 @@ public class PlayerController : MonoBehaviour
     private float horizontalInput;
 
     [SerializeField] private PlayerData _playerData;
+
+    [SerializeField] private Transform attackPoint;
+    [SerializeField] private float attackRange;
+    [SerializeField] private LayerMask enemyLayer;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -43,19 +47,25 @@ public class PlayerController : MonoBehaviour
     {
         if (other.gameObject.tag=="Enemy")
         {
-            animator.SetTrigger("takeDamage");
+           
             if (other.gameObject.GetComponent<Enemy>().EnemyDamage>=_playerData.PlayerHealth)
             {
                 _playerData.PlayerHealth = 0;
             }
-            if (_playerData.PlayerHealth<=0)
-            {
-                animator.SetTrigger("Dead");
-            }
-            _playerData.PlayerHealth -= other.gameObject.GetComponent<Enemy>().EnemyDamage;
         }
     }
 
+    public void TakeDamage(int damage)
+    {
+        animator.SetTrigger("takeDamage");
+        _playerData.PlayerHealth -= damage;
+        if (_playerData.PlayerHealth<=0)
+        {
+            animator.SetTrigger("Dead");
+        }
+    }
+    
+    
     private void flip(bool value)// karakterin baktığı yönü düzenlemek için yazılan bir metod.
     {
         gameObject.GetComponent<SpriteRenderer>().flipX = value;
@@ -78,8 +88,29 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Debug.Log("attack");
             animator.SetTrigger("Attack");
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+            foreach (Collider2D enemy in hitEnemies)
+            {
+                BossScript bossHealth = enemy.GetComponent<BossScript>();
+                EnemyScript enemyScript = enemy.GetComponent<EnemyScript>();
+                if (bossHealth != null)
+                {
+                    bossHealth.takeDamage(_playerData.PlayerDamage);
+                }
+                else if (enemyScript!=null)
+                {
+                    enemyScript.takeDamage(_playerData.PlayerDamage);
+                }
+            }
         }
+    }
+    void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null)
+            return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }
