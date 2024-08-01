@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3d4c655540fc514ba39a6d331ad1457, type: 3}
-  m_Name: GokCanavari
+  m_Name: Mermaid
   m_EditorClassIdentifier: 
-  enemyName: GokCanavari
-  enemyDamage: 50
-  enemyHealth: 50
+  enemyName: 
+  enemyDamage: 20
+  enemyHealth: -10
