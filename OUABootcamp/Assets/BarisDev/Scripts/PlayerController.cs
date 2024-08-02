@@ -16,6 +16,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform attackPoint;
     [SerializeField] private float attackRange;
     [SerializeField] private LayerMask enemyLayer;
+    
+    public float jumpForce = 5f;  
+    public float groundCheckDistance = 0.1f;
+    public LayerMask groundLayer; // Zemini belirten katman
+        
+    private bool isGrounded;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -24,6 +30,12 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         attackAnimationController();
+
+        if (Input.GetButtonDown("Jump") && IsGrounded())
+        {
+            animator.SetTrigger("isJump");
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        }
     }
 
     private void FixedUpdate()
@@ -43,6 +55,12 @@ public class PlayerController : MonoBehaviour
         
     }
 
+    bool IsGrounded()
+    {
+       
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, groundLayer);
+        return hit.collider != null;
+    }
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.tag=="Enemy")
@@ -103,6 +121,14 @@ public class PlayerController : MonoBehaviour
                     enemyScript.takeDamage(_playerData.PlayerDamage);
                 }
             }
+        }
+    }
+
+    private void jumpAnimation()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            
         }
     }
     void OnDrawGizmosSelected()
