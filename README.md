@@ -71,3 +71,35 @@ Road Map oluşturuldu,oyun planlaması bitti,Ana karakter assetlere karar verild
 Yine oyunu ses ve görüntü tasarımı konusundu ilham aldığı mitolojik ve tarihi temele oturtarak play store ve app store'un en çok kullanılan yenilmez uygulaması haline getirmek
 Yardımcı karakterleri oyuna doğru bir şekilde silik kalmayacak şekilde entegre etmek
 Doğru bir şekilde evren ve level tasarılmlarını uygulamaya geçirmek
+# Sprint 3
+## Sprint Notları
+Oyun tamamlandı.Jüri değerlendirme formu dolduruldu.Oyun için hukuksal olarak yol haritası çizildi.
+
+## Tahmin Edilen Puan
+10/10.
+
+## Tahmin Mantığı
+Ekip olarak büyük bir özveriyle oyunu istediğimiz şekilde bitirdik.Akademinin sonunda çok değerli arkadaşlar kazandık ve ekip ruhumuzu bu bootcamp'den sonra da devam ettirmeyi düşünüyoruz.En az birincilik ödülü kadar değerli olan ekip ruhunu ve gerçek takım arkadaşlığını kazandık
+
+## Daily Scrum (ekran görüntüsü veya text dosyası)
+![alt text](1722631038842-1.jpg)
+![alt text](1722631038855-1.jpg)
+![alt text](1722631038874.jpg)
+
+
+## Sprint Board Updates 
+![alt text](1722631038847-2.jpg)
+![alt text](1722631038861.jpg)
+
+
+## Ürün Screenshot (kod, taslak veya görsel)
+![alt text](1722631214830-1.jpg)
+![alt text](1722631038837.jpg)
+
+
+## Sprint Review
+Oyun başarıyla tamamlandı.Değerlendirme için hazır.
+
+
+## Sprint Retrospektif
+Değerlendirme sonuçları bekleniyor.
