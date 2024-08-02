@@ -82,7 +82,8 @@ Oyun tamamlandı.Jüri değerlendirme formu dolduruldu.Oyun için hukuksal olara
 Ekip olarak büyük bir özveriyle oyunu istediğimiz şekilde bitirdik.Akademinin sonunda çok değerli arkadaşlar kazandık ve ekip ruhumuzu bu bootcamp'den sonra da devam ettirmeyi düşünüyoruz.En az birincilik ödülü kadar değerli olan ekip ruhunu ve gerçek takım arkadaşlığını kazandık
 
 ## Daily Scrum (ekran görüntüsü veya text dosyası)
-![image](1722631038842-1.jpg)
+![IMG-20240803-WA0009](https://github.com/user-attachments/assets/6034f307-e4a1-42f7-abe5-18c62e703bf1)
+jpg)
 ![image](1722631038855-1.jpg)
 ![image](1722631038874.jpg)
 
