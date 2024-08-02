@@ -19,6 +19,13 @@ public class EnemyScript : MonoBehaviour
         if (enemy.EnemyHealth<=0)
         {
             anim.SetTrigger("isDead");
+            StartCoroutine(waitDeath());
         }
+    }
+
+    IEnumerator waitDeath()
+    {
+        yield return new WaitForSeconds(1);
+        Destroy(gameObject);
     }
 }

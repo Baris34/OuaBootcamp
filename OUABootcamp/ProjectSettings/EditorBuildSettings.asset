@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/EmreDev/UI/Scenes/MainMenu.unity
+    guid: eccdd8110bb8b074fb48e77a90cd3934
+  - enabled: 1
+    path: Assets/EmreDev/UI/Scenes/Settings.unity
+    guid: 738b1be95005384438d07a1470e685a4
+  - enabled: 1
+    path: Assets/BuseDev/Forest.unity
+    guid: d7196f72b0cfef34eadb69a35e47a8cc
+  - enabled: 1
+    path: Assets/BarisDev/Scenes/VolcanoScene.unity
+    guid: 8c11fbaaf82acd64c9c5de1ff2a00809
+  - enabled: 1
+    path: Assets/EmreDev/Scenes/Sualti.unity
+    guid: 6ba819343c85f4e4fb58be5f8c9d9439
+  - enabled: 1
+    path: "Assets/EmreDev/Hava b\xF6l\xFCm\xFC/Scenes/HvaBolumu.unity"
+    guid: 636144b35f402ce43b81eb3df96a2492
   m_configObjects: {}
