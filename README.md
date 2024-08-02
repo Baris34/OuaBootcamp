@@ -82,19 +82,19 @@ Oyun tamamlandı.Jüri değerlendirme formu dolduruldu.Oyun için hukuksal olara
 Ekip olarak büyük bir özveriyle oyunu istediğimiz şekilde bitirdik.Akademinin sonunda çok değerli arkadaşlar kazandık ve ekip ruhumuzu bu bootcamp'den sonra da devam ettirmeyi düşünüyoruz.En az birincilik ödülü kadar değerli olan ekip ruhunu ve gerçek takım arkadaşlığını kazandık
 
 ## Daily Scrum (ekran görüntüsü veya text dosyası)
-![alt text](1722631038842-1.jpg)
-![alt text](1722631038855-1.jpg)
-![alt text](1722631038874.jpg)
+![image](1722631038842-1.jpg)
+![image](1722631038855-1.jpg)
+![image](1722631038874.jpg)
 
 
 ## Sprint Board Updates 
-![alt text](1722631038847-2.jpg)
-![alt text](1722631038861.jpg)
+![image](1722631038847-2.jpg)
+![image](1722631038861.jpg)
 
 
 ## Ürün Screenshot (kod, taslak veya görsel)
-![alt text](1722631214830-1.jpg)
-![alt text](1722631038837.jpg)
+![image](1722631214830-1.jpg)
+![image](1722631038837.jpg)
 
 
 ## Sprint Review
