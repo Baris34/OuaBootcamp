@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/EmreDev/UI/Scenes/Game.unity
+    guid: 9f9876e54aff47842951ba8a09c0e7e8
+  - enabled: 1
+    path: Assets/EmreDev/UI/Scenes/GAMEOVER.unity
+    guid: 168d4256c49c8eb43acc17c9c6270631
+  - enabled: 1
+    path: Assets/EmreDev/UI/Scenes/MainMenu.unity
+    guid: eccdd8110bb8b074fb48e77a90cd3934
+  - enabled: 1
+    path: Assets/EmreDev/UI/Scenes/Settings.unity
+    guid: 738b1be95005384438d07a1470e685a4
   m_configObjects: {}
