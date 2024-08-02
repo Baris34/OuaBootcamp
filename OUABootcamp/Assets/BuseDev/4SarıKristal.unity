@@ -160,12 +160,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sar\u0131 Kristali buldun! Bu kristal, g\xF6ky\xFCz\xFCn\xFCn sonsuzlu\u011Funda
-    parlayan \u0131\u015F\u0131\u011F\u0131n ve bilgelik yolunun sembol\xFC. Onun
-    \u0131\u015F\u0131\u011F\u0131yla, bulutlar\u0131 aralayarak d\xFCnyaya huzur
-    getirdin.\n\n\u015Eimdi, yolculu\u011Fun sona yakla\u015F\u0131yor. T\xFCm kristalleri
-    bir araya getirme zaman\u0131. D\xFCnyay\u0131 renklerine kavu\u015Fturma g\xF6revi
-    seni bekliyor.\n\nHaydi! Bilgelik r\xFCzgar\u0131n, umut dalgan olsun."
+  m_text: "Ve son kristal olan Sar\u0131 Kristal'i buldun! Bu kristal, g\xF6ky\xFCz\xFCn\xFCn
+    sonsuzlu\u011Funda parlayan \u0131\u015F\u0131\u011F\u0131n ve bilgelik yolunun
+    sembol\xFC. Onun \u0131\u015F\u0131\u011F\u0131yla, bulutlar\u0131 aralayarak
+    d\xFCnyaya huzur getirdin.\n\n\u015Eimdi, yolculu\u011Fun sona yakla\u015F\u0131yor.
+    T\xFCm kristalleri bir araya getirme zaman\u0131! D\xFCnyay\u0131 renklerine
+    kavu\u015Fturma g\xF6revi seni bekliyor.\n\nHaydi! Bilgelik r\xFCzgar\u0131n,
+    umut g\xFCne\u015Fi olsun."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5fec20e01e52833458bc26b39f8553bf, type: 2}
   m_sharedMaterial: {fileID: 6897955848793677413, guid: 5fec20e01e52833458bc26b39f8553bf, type: 2}
