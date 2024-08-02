@@ -7,7 +7,7 @@ public class Parallax : MonoBehaviour
     [SerializeField] private Transform _cam;
     [SerializeField] private float _moveSpeed;
 
-    void Update()
+    private void LateUpdate()
     {
         transform.Translate(-1 * _moveSpeed * Time.deltaTime, 0f, 0f);
         if (_cam.position.x >= transform.position.x + 150f)
