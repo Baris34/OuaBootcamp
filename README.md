@@ -84,20 +84,20 @@ Ekip olarak büyük bir özveriyle oyunu istediğimiz şekilde bitirdik.Akademin
 ## Daily Scrum (ekran görüntüsü veya text dosyası)
 ![image](https://github.com/user-attachments/assets/6034f307-e4a1-42f7-abe5-18c62e703bf1)
 jpg)
-![IMG-20240803-WA0013](https://github.com/user-attachments/assets/e783a91b-4008-421e-a3e8-f405361c6fab)
+![image](https://github.com/user-attachments/assets/e783a91b-4008-421e-a3e8-f405361c6fab)
 
-![IMG-20240803-WA0015](https://github.com/user-attachments/assets/4d623e30-c3c7-4d8b-9e67-be2ded931564)
+![image](https://github.com/user-attachments/assets/4d623e30-c3c7-4d8b-9e67-be2ded931564)
 
 
 
 ## Sprint Board Updates 
-![IMG-20240803-WA0003](https://github.com/user-attachments/assets/9da0eff9-0532-4847-8c4e-c2042676a09b)
+![image](https://github.com/user-attachments/assets/9da0eff9-0532-4847-8c4e-c2042676a09b)
 
 
 
 ## Ürün Screenshot (kod, taslak veya görsel)
-![IMG-20240803-WA0010](https://github.com/user-attachments/assets/ee908eef-4807-47bd-97a2-9f70b6955af1)
-![IMG-20240803-WA0007](https://github.com/user-attachments/assets/394896ca-2df3-4da3-bec0-a7bbc0c8b2a3)
+![image](https://github.com/user-attachments/assets/ee908eef-4807-47bd-97a2-9f70b6955af1)
+![image](https://github.com/user-attachments/assets/394896ca-2df3-4da3-bec0-a7bbc0c8b2a3)
 
 
 
